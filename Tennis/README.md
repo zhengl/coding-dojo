@@ -12,6 +12,8 @@ http://codingdojo.org/cgi-bin/wiki.pl?KataTennis
 ### Round II (based on B)
 - C
 - D
+- E
+- F
 
 New Requirements:
 - Doubles
